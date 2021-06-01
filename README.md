@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Diego Malone from Brazil (🇧🇷). I've been working as Android Engineer since 2014 and currently I'm Chapter Leader at [Concrete](https://medium.com/concretebr).
+My name is Diego Malone from Brazil (🇧🇷) and I've been working as Android Engineer since 2014.
 
 In my free time I like to read books (📚), to watch TV series and movies (🍿), to play the piano (🎹), and to enjoy the company of my wife (👫🏻).
 
